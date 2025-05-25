@@ -1,4 +1,4 @@
-for (let i = 1; i < 44; i++) {
+for (let i = 1; i < 50; i++) {
     fetch("https://board.purinaagrobot.ru/game/ready/", {
         "headers": {
             "accept": "*/*",
