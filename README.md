@@ -18,6 +18,8 @@
 
 Нажмите кнопку **"Открыть"** (или аналогичную), чтобы запустить WebApp-приложение.
 
+![Иллюстрация к проекту](https://github.com/Oreshec/board.purinaagrobot.ru/blob/main/.readme/1.png)
+
 ### 2. Перейдите к iframe-странице игры
 
 Когда откроется WebApp, откройте **инструменты разработчика** (`F12` или `Ctrl + Shift + I`) и перейдите во вкладку **`Console`**.
@@ -27,6 +29,8 @@
 window.open(document.querySelector("iframe").src);
 ```
 >⚠️ Важно: при вставке кода в консоль браузер может заблокировать это действие и попросить ввести что-то вроде `allow pasting`
+
+![Иллюстрация к проекту](https://github.com/Oreshec/board.purinaagrobot.ru/blob/main/.readme/2.png)
 
 ✅ Нажмите `Enter`. Браузер откроет игру в новой вкладке.
 
@@ -41,3 +45,5 @@ window.open(document.querySelector("iframe").src);
 Откройте **инструменты разработчика** (`F12` или `Ctrl + Shift + I`) и перейдите во вкладку **`Console`**.
 Вставьте код из [main.js](https://github.com/Oreshec/board.purinaagrobot.ru/blob/main/main.js) в консоль и нажмите Enter:
 > ⚠️ Важно: при вставке кода в консоль браузер может заблокировать это действие и попросить ввести что-то вроде `allow pasting`
+
+![Иллюстрация к проекту](https://github.com/Oreshec/board.purinaagrobot.ru/blob/main/.readme/3.png)
