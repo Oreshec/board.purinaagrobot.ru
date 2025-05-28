@@ -30,6 +30,7 @@ window.open(document.querySelector("iframe").src);
 ```
 
 >⚠️ Важно: при вставке кода в консоль браузер может заблокировать это действие и попросить ввести что-то вроде `allow pasting`
+
 ![Иллюстрация к проекту](https://github.com/Oreshec/board.purinaagrobot.ru/blob/main/.readme/1.png)
 
 ✅ Нажмите `Enter`. Браузер откроет игру в новой вкладке.
@@ -43,11 +44,13 @@ window.open(document.querySelector("iframe").src);
 ### 3. Выполните JavaScript-код в консоли
 
 На самой странице игры нажмите кнопку "Игра" , чтобы перейти к нужному экрану.
+
+![Иллюстрация к проекту](https://github.com/Oreshec/board.purinaagrobot.ru/blob/main/.readme/2.png)
+
 Откройте **инструменты разработчика** (`F12` или `Ctrl + Shift + I`) и перейдите во вкладку **`Console`**.
+
 Вставьте код из [main.js](https://github.com/Oreshec/board.purinaagrobot.ru/blob/main/main.js) в консоль и нажмите Enter:
 
 > ⚠️ Важно: при вставке кода в консоль браузер может заблокировать это действие и попросить ввести что-то вроде `allow pasting`
-
-![Иллюстрация к проекту](https://github.com/Oreshec/board.purinaagrobot.ru/blob/main/.readme/2.png)
 
 ![Иллюстрация к проекту](https://github.com/Oreshec/board.purinaagrobot.ru/blob/main/.readme/3.png)
